@@ -5,6 +5,10 @@
 	height: 60px;
 }
 
+#enrollNow {
+	color: #e0fde0 !important;
+}
+
 @media (max-width: 767px) {
   .logo-position {
  	height: 40px;
